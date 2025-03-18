@@ -1,4 +1,5 @@
 fn main() {
+    // With funtioin
     println!("Everything about me:\n");
     about(32.0,7.0);
     println!("\n");
